@@ -1,6 +1,6 @@
 # JS Utilities Collection
 
-# 1.Toast Notification Utility
+# 1. Toast Notification Utility
 
 A simple and minimal JavaScript utility to display toast notifications on a web page.
 
@@ -27,3 +27,5 @@ A simple and minimal JavaScript utility to display toast notifications on a web 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Sanjay-S-13/JS_Utilities.git
+2.	Open index.html from the ToastNotification folder in your browser to see the demo.
+3.	Integrate the notification logic in your projects by copying the showToast(msg) function and the CSS.
