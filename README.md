@@ -1,19 +1,29 @@
 # JS Utilities Collection
 
-This repository contains small, useful JavaScript utility functions and components like:
+# 1.Toast Notification Utility
 
-- Dark Mode / Light Mode Toggle  
-- Password Strength Checker  
-- Calculator  
-- BMI Calculator  
-- Toast Notifications  
+A simple and minimal JavaScript utility to display toast notifications on a web page.
 
-Each utility is built to be simple, minimal, and easy to integrate into any project.
+---
 
-## Usage
+##  Live Demo
 
-Clone this repository and import the utility you want into your project.
+[Toast Notification Live Demo](https://sanjay-s-13.github.io/JS_Utilities/ToastNotification/)
 
-## License
+---
 
-MIT License
+##  Features
+
+- Success Notification  
+- Error Notification  
+- Invalid Input Notification  
+- Auto-dismiss after 6 seconds  
+- Simple and customizable design
+
+---
+
+##  Usage
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sanjay-S-13/JS_Utilities.git
